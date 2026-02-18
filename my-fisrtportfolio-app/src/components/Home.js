@@ -10,7 +10,7 @@ export const Home = () => {
           {/* Image Column */}
           <Col lg={5} className="text-center mb-4 mb-lg-0">
             <Image 
-              src="https://tse1.explicit.bing.net/th/id/OIP.TnpDu1U8aWysMipeXAjEqwHaFj?cb=defcachec2&rs=1&pid=ImgDetMain&o=7&rm=3" // Replace with your image URL or imported file
+              src="https://scontent.fmnl16-1.fna.fbcdn.net/v/t39.30808-6/609033977_2014916622386619_2090495801082125380_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGMpukahr7uKB-P0L5nhUGHAwY6Mjhtn2sDBjoyOG2fa4SeDdXzcd44IHz4QSwHZMjRobUGGac0xsZXq3zQ4anN&_nc_ohc=kp9JIoXKyzMQ7kNvwFDfvL4&_nc_oc=AdligdnkaYf7xnPHoIIB0TbbMd_kt4z-K6EtnGdBl3DyNW1-hR2haYZWg8wC9G3RnYw&_nc_zt=23&_nc_ht=scontent.fmnl16-1.fna&_nc_gid=u3t65ito8u9oocwmxeBltQ&oh=00_AfvYDkE7bEQeR8A0ODc_EaQKKkNiAfIRgC0aYuE-lP_lNw&oe=699B1682" // Replace with your image URL or imported file
               alt="My Profile"
               fluid
               rounded
